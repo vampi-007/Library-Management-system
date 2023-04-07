@@ -1,2 +1,3 @@
-# Library-Management-system
-A library management system project involves developing software that allows librarians to manage library resources such as books, journals, and magazines. The system uses programming fundamentals to handle tasks such as borrowing and returning books, tracking overdue items, and managing inventory.
+# Library Management System Project
+
+This project is a simple command-line-based library management system that allows users to add, update, remove, search, and print books from a virtual library. The system uses a dictionary to store books' information, such as their ISBN, title, and price. Users can add, update, or remove books from the library by providing the book's ISBN and its updated details, such as title and price. Users can also search for books by their ISBN and print all books' details stored in the library. The system uses basic programming fundamentals such as loops, conditionals, and functions to perform these tasks.
